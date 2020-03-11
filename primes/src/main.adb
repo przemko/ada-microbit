@@ -1,6 +1,6 @@
 with MicroBit.Display;
 
-procedure Primes is
+procedure Main is
    Number : Integer := 3;
 begin
    MicroBit.Display.Display (Integer'Image (2));
@@ -23,4 +23,4 @@ begin
       end;
       Number := Number + 2;
    end loop;
-end Primes;
+end Main;
