@@ -25,3 +25,9 @@ cd NAZWA_PRZYKŁADU
 arm-eabi-objcopy -O binary obj/main obj/main.bin
 pyocd-flashtool -a 0x00000000 obj/main.bin
 ```
+### Sprzątanie
+
+```bash
+cd NAZWA_PRZYKŁADU
+gprclean
+```
