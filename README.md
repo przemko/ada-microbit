@@ -1,7 +1,7 @@
 # ada-microbit
 Programy na BBC micro::bit napisane w języku Ada.
 
-## Klonowanie repopzytorium
+## Klonowanie repozytorium
 
 Aby sklonować należy użyć opcji **--recursive**:
 
